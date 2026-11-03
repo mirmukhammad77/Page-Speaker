@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Page Speaker",
+  "version": "0.1.0",
+  "description": "Read an article aloud from a selected starting point, using on-device voices.",
+  "minimum_chrome_version": "120",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tts",
+    "webNavigation"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Enable Page Speaker on this page"
+  }
+}
