@@ -1,0 +1,85 @@
+.specify/memory/constitution.md
+  s_318cb15d2732f8::t_359efeeb98ebe4 1-86
+package-lock.json
+  s_318cb15d2732f8::t_f9d23fe6cfa9eb 1-1991
+package.json
+  s_318cb15d2732f8::t_24bfe53647b1a8 1-31
+specs/001-read-article-aloud/plan.md
+  s_318cb15d2732f8::t_ff8c3b150b4ffd 1-357
+specs/001-read-article-aloud/spec.md
+  s_318cb15d2732f8::t_bd5a4deb9c1423 1-258
+specs/001-read-article-aloud/tasks.md
+  s_318cb15d2732f8::t_0fa465b1683a1e 1-301
+.gitignore
+  s_318cb15d2732f8::t_4909ffc4f41252 1-12
+README.md
+  s_318cb15d2732f8::t_485d9a2d70d408 1-131
+components.json
+  s_318cb15d2732f8::t_264f4257888ade 1-18
+public/manifest.json
+  s_318cb15d2732f8::t_89d88ecc641c33 1-20
+specs/001-read-article-aloud/checklists/requirements.md
+  s_318cb15d2732f8::t_b5394074d507ce 1-46
+specs/001-read-article-aloud/contracts/messages.md
+  s_318cb15d2732f8::t_e6ef54480d6333 1-160
+specs/001-read-article-aloud/data-model.md
+  s_318cb15d2732f8::t_bc8fb3c3622284 1-177
+specs/001-read-article-aloud/quickstart.md
+  s_318cb15d2732f8::t_533b587c35da7b 1-225
+specs/001-read-article-aloud/research.md
+  s_318cb15d2732f8::t_7166465f3e79d7 1-218
+src/background/index.ts
+  s_318cb15d2732f8::t_773ea2bca78198 1-84
+src/background/playback.ts
+  s_318cb15d2732f8::t_4b706b8bf121af 1-270
+src/background/source-lifecycle.ts
+  s_318cb15d2732f8::t_3c1ef0818bf41f 1-66
+src/content/article.ts
+  s_318cb15d2732f8::t_baee982b5c03e2 1-110
+src/content/index.tsx
+  s_318cb15d2732f8::t_f669f3547c2cfe 1-252
+src/content/selection.ts
+  s_318cb15d2732f8::t_02678b15e451e3 1-48
+src/content/shadow-root.ts
+  s_318cb15d2732f8::t_71a2ed256ab9ee 1-25
+src/shared/messages.ts
+  s_318cb15d2732f8::t_3f696cbfe003eb 1-98
+src/shared/speech-segments.ts
+  s_318cb15d2732f8::t_db66ad09e6f851 1-32
+src/ui/ReaderControls.tsx
+  s_318cb15d2732f8::t_8d0b05a2a0da41 1-53
+src/ui/components/button.tsx
+  s_318cb15d2732f8::t_02e9346ff4ac4e 1-18
+src/ui/components/native-select.tsx
+  s_318cb15d2732f8::t_e6d678b3a3bc0d 1-10
+src/ui/lib/utils.ts
+  s_318cb15d2732f8::t_44ec1049637fe2 1-4
+src/ui/styles.css
+  s_318cb15d2732f8::t_1c73dd1e022f3a 1-57
+tsconfig.background.json
+  s_318cb15d2732f8::t_0e5667d7337f8d 1-17
+tsconfig.content.json
+  s_318cb15d2732f8::t_b71f2106580150 1-21
+tsconfig.json
+  s_318cb15d2732f8::t_2c89063e75df95 1-19
+tsconfig.node.json
+  s_318cb15d2732f8::t_10219c91a04f57 1-14
+vite.config.ts
+  s_318cb15d2732f8::t_12a9a1a8470c9e 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "9e7e5aa4f7b2b5af5b63875b8207a73c8116bb76",
+  "prompts": {},
+  "sessions": {
+    "s_318cb15d2732f8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19c50-aab1-7892-8978-6a71ac07bf27",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Mirmuxammad <mirmuxammad@gmail.com>"
+    }
+  }
+}
